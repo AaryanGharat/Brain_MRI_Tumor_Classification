@@ -1,1 +1,1 @@
-# Brain_Mri_Classification
+# Brain_MRI_Tumor_Classification
